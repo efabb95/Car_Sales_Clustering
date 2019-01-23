@@ -1,0 +1,201 @@
+Manufacturer,Model,price,Wheelbase,Width,Length,Height,body
+Acura        ,RL,12900,114.6,71.4,196.6,56.5,sedan
+Acura        ,RL,15000,114.6,71.4,196.6,56.5,sedan
+Acura        ,TL,8550,108.1,70.3,192.9,56.1,sedan
+Acura        ,TL,8699,108.1,70.3,192.9,56.1,sedan
+Acura        ,TL,8699,108.1,70.3,192.9,56.1,sedan
+Acura        ,TL,8700,108.1,70.3,192.9,56.1,sedan
+Audi         ,A6,0,108.7,76.1,192,57.2,crossover
+Audi         ,A8,0,113,74,198.2,56.6,sedan
+Audi         ,A6,1900,108.7,76.1,192,57.2,sedan
+Audi         ,A6,2200,108.7,76.1,192,57.2,sedan
+Audi         ,A8,2800,113,74,198.2,56.6,sedan
+Audi         ,A8,3250,113,74,198.2,56.6,sedan
+Audi         ,A8,3500,113,74,198.2,56.6,sedan
+Audi         ,A8,3550,113,74,198.2,56.6,sedan
+Audi         ,A8,3600,113,74,198.2,56.6,sedan
+Audi         ,A8,4150,113,74,198.2,56.6,sedan
+Audi         ,A8,6500,113,74,198.2,56.6,sedan
+Audi         ,A6,6700,108.7,76.1,192,57.2,sedan
+Audi         ,A6,6800,108.7,76.1,192,57.2,sedan
+Audi         ,A6,6900,108.7,76.1,192,57.2,sedan
+Audi         ,A6,0,108.7,76.1,192,57.2,vagon
+Audi         ,A6,2000,108.7,76.1,192,57.2,vagon
+Audi         ,A6,3700,108.7,76.1,192,57.2,vagon
+Audi         ,A6,3800,108.7,76.1,192,57.2,vagon
+Audi         ,A6,3850,108.7,76.1,192,57.2,vagon
+Audi         ,A6,3900,108.7,76.1,192,57.2,vagon
+Audi         ,A6,3900,108.7,76.1,192,57.2,vagon
+Audi         ,A6,4000,108.7,76.1,192,57.2,vagon
+Audi         ,A6,4000,108.7,76.1,192,57.2,vagon
+Audi         ,A6,9600,108.7,76.1,192,57.2,vagon
+Buick        ,Century,3500,109,72.7,194.6,56.6,sedan
+Cadillac     ,Escalade,47000,117.5,77,201.2,74.3,crossover
+Cadillac     ,Escalade,145000,117.5,77,201.2,74.3,crossover
+Chrysler     ,LHS,3800,113,74.4,207.7,56,sedan
+Dodge        ,Durango,9500,115.7,71.7,193.5,72.9,crossover
+Dodge        ,Intrepid,4300,113,74.7,203.7,55.9,sedan
+Dodge        ,Stratus,3900,108,70.6,191.2,54.9,sedan
+Ford         ,Explorer,40000,111.6,70.2,190.7,68.3,crossover
+Ford         ,Explorer,64300,111.6,70.2,190.7,68.3,crossover
+Ford         ,Escort,620,98.4,67,174.7,53.3,hatch
+Ford         ,Escort,1500,98.4,67,174.7,53.3,hatch
+Ford         ,Escort,1550,98.4,67,174.7,53.3,hatch
+Ford         ,Escort,1900,98.4,67,174.7,53.3,hatch
+Ford         ,Escort,3100,98.4,67,174.7,53.3,hatch
+Ford         ,Escort,3300,98.4,67,174.7,53.3,hatch
+Ford         ,Focus,5400,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,7100,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,7200,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,7300,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,7500,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,7900,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,9000,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,9200,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,9200,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,9750,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,9800,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,9950,103,66.9,174.8,53.9,hatch
+Ford         ,Focus,10400,103,66.9,174.8,53.9,hatch
+Ford         ,Taurus,2200,108.5,73,197.6,55.1,sedan
+Ford         ,Focus,10200,103,66.9,174.8,53.9,vagon
+Honda        ,CR-V,14500,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,14800,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,15300,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,15400,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,15500,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,15700,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,16200,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,20500,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,22000,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,26000,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,26000,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,27803,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,40900,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,41000,103.2,68.9,177.6,67.1,crossover
+Honda        ,CR-V,0,103.2,68.9,177.6,67.1,crossover
+Honda        ,Civic,1650,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,2900,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,4599,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,8781,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,9500,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,9500,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,9699,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,9700,103.2,67.1,175.1,54.7,hatch
+Honda        ,Civic,10500,103.2,67.1,175.1,54.7,hatch
+Honda        ,Accord,20000,106.9,70.3,188.8,55.3,sedan
+Honda        ,Accord,20000,106.9,70.3,188.8,55.3,sedan
+Honda        ,Accord,20500,106.9,70.3,188.8,55.3,sedan
+Honda        ,Accord,18600,106.9,70.3,188.8,55.3,vagon
+Hyundai      ,Accent,6900,96.1,65.7,166.7,54.9,crossover
+Hyundai      ,Sonata,7500,106.3,71.6,185.4,55.5,sedan
+Hyundai      ,Sonata,8000,106.3,71.6,185.4,55.5,sedan
+Hyundai      ,Sonata,8300,106.3,71.6,185.4,55.5,sedan
+Infiniti     ,i30,7400,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,7700,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,7800,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8200,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8500,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8599,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8800,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8800,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8800,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8900,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,8999,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,9100,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,9700,108.3,70.2,193.7,57.1,hatch
+Infiniti     ,i30,10900,108.3,70.2,193.7,57.1,sedan
+Infiniti     ,i30,13999,108.3,70.2,193.7,57.1,sedan
+Infiniti     ,i30,9900,108.3,70.2,193.7,57.1,vagon
+Infiniti     ,i30,11999,108.3,70.2,193.7,57.1,vagon
+Infiniti     ,i30,17500,108.3,70.2,193.7,57.1,vagon
+Jaguar       ,S-Type,7500,114.5,71.6,191.3,55.7,sedan
+Jaguar       ,S-Type,12999,114.5,71.6,191.3,55.7,sedan
+Jeep         ,Grand Cherokee,3300,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,4900,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,5000,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,5500,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,7200,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,13990,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,16999,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,19500,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,27500,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,27500,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,34900,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,40000,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,45500,105.9,72.3,181.5,67.3,crossover
+Jeep         ,Grand Cherokee,53000,105.9,72.3,181.5,67.3,crossover
+Lincoln      ,Navigator,12500,119,79.9,204.8,76.7,crossover
+Lincoln      ,Town Car,10000,117.7,78.2,215.3,58,sedan
+Lincoln      ,Continental,53500,109,73.6,208.5,56,sedan
+Lincoln      ,Continental,55000,109,73.6,208.5,56,sedan
+Lincoln      ,Continental,60000,109,73.6,208.5,56,sedan
+Mercedes-Benz,C-Class,7800,105.9,67.7,177.4,56.1,hatch
+Mercedes-Benz,E-Class,1200,111.5,70.8,189.4,56.2,sedan
+Mercedes-Benz,E-Class,1350,111.5,70.8,189.4,56.2,sedan
+Mercedes-Benz,E-Class,1600,111.5,70.8,189.4,56.2,sedan
+Mercedes-Benz,E-Class,1700,111.5,70.8,189.4,56.2,sedan
+Mercedes-Benz,E-Class,1350,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,1350,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,2550,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,3750,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,5000,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,6900,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,7300,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,9500,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,14490,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,14500,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,15900,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,24800,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,26800,111.5,70.8,189.4,56.2,vagon
+Mercedes-Benz,E-Class,33000,111.5,70.8,189.4,56.2,vagon
+Mercury      ,Grand Marquis,10000,114.7,78.2,212,56.3,sedan
+Mitsubishi   ,Galant,1550,103.7,68.5,187.8,54.9,hatch
+Mitsubishi   ,Galant,2199,103.7,68.5,187.8,54.9,hatch
+Mitsubishi   ,Galant,2400,103.7,68.5,187.8,54.9,hatch
+Mitsubishi   ,Galant,2900,103.7,68.5,187.8,54.9,hatch
+Mitsubishi   ,Galant,3149,103.7,68.5,187.8,54.9,hatch
+Mitsubishi   ,Galant,12000,103.7,68.5,187.8,54.9,sedan
+Mitsubishi   ,Galant,12750,103.7,68.5,187.8,54.9,sedan
+Mitsubishi   ,Galant,2600,103.7,68.5,187.8,54.9,vagon
+Mitsubishi   ,Galant,4900,103.7,68.5,187.8,54.9,vagon
+Nissan       ,Pathfinder,3330,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,9000,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,14500,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,14500,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,15800,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,16500,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,17900,106.3,71.7,182.6,70.9,crossover
+Nissan       ,Pathfinder,28500,106.3,71.7,182.6,70.9,crossover
+Oldsmobile   ,Aurora,8500,113.8,74.4,205.4,55.4,crossover
+Subaru       ,Outback,8999,103.5,67.5,185.8,62.9,crossover
+Subaru       ,Outback,18700,103.5,67.5,185.8,62.9,crossover
+Subaru       ,Outback,19900,103.5,67.5,185.8,62.9,crossover
+Subaru       ,Outback,44500,103.5,67.5,185.8,62.9,crossover
+Subaru       ,Outback,0,103.5,67.5,185.8,62.9,crossover
+Subaru       ,Outback,8899,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,9499,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,10000,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,10500,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,10700,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,10999,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,11200,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,16799,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,17000,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,19900,103.5,67.5,185.8,62.9,vagon
+Subaru       ,Outback,43900,103.5,67.5,185.8,62.9,vagon
+Toyota       ,4Runner,42000,105.3,66.5,183.3,68.5,crossover
+Toyota       ,Tacoma,39900,103.3,66.5,178.7,66.3,crossover
+Toyota       ,Corolla,1750,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,2350,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,3100,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,3650,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,3700,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,4500,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,8000,97,66.7,174,57.5,hatch
+Toyota       ,Corolla,8300,97,66.7,174,57.5,hatch
+Toyota       ,Avalon,12999,107.1,71.7,191.9,56.7,sedan
+Toyota       ,Avalon,15400,107.1,71.7,191.9,56.7,sedan
+Toyota       ,Camry,2200,105.2,70.1,188.5,56,vagon
+Volkswagen   ,Beetle,3500,98.9,67.9,161.1,59.1,hatch
+Volkswagen   ,Beetle,8500,98.9,67.9,161.1,59.1,hatch
